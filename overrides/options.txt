@@ -4,6 +4,7 @@ fov:0.5
 guiScale:4
 resourcePacks:["vanilla","mod_resources","PFM Assets","file/ThePixelmonOST.zip"]
 incompatibleResourcePacks:["file/ThePixelmonOST.zip"]
+key_iris.keybind.reload:key.keyboard.unknown
 key_key.travelersbackpack.inventory:key.keyboard.right.bracket
 key_zume.zoom_in:key.keyboard.unknown
 key_zume.zoom_out:key.keyboard.unknown
