@@ -2,7 +2,8 @@
   "formatVersion": 1,
   "game": "minecraft",
   "name": "DAJAAM's Pixelmon",
-  "versionId": "0.0.2",
+  "versionId": "0.0.3",
+  "dependencies": { "forge": "36.2.42", "minecraft": "1.16.5" },
   "files": [
     {
       "downloads": [
@@ -426,15 +427,15 @@
     },
     {
       "downloads": [
-        "https://cdn.modrinth.com/data/VRLhWB91/versions/ZL5QbYfC/mcw-paths-1.0.5-1.16.5forge.jar"
+        "https://cdn.modrinth.com/data/VRLhWB91/versions/RA6Newhr/mcw-paths-1.1.0forge-mc1.16.5.jar"
       ],
       "env": { "client": "required", "server": "required" },
-      "fileSize": 468588,
+      "fileSize": 634917,
       "hashes": {
-        "sha1": "a1fa7f79bfd81a0550b46e779f2da3d96de55fb4",
-        "sha512": "6297dff7cfe34a5f4c6caa7072ec950f09158b1f3369fa3489c7889cd35a6a039eff8ae7f8da1f599f1dbda145b0464037c8ce7921b255293c5cad18b2c2209e"
+        "sha1": "88d01773da502ec67834dc9f5da418e765e091a8",
+        "sha512": "dc31df5dcde9a519c09e96e4226c1d372befc33bd35d65ab1c9b3a5a31d41204115f89b2f75203f93556de31872bc675acf5f3f065b6ed572a3468107b9e1e1f"
       },
-      "path": "mods/mcw-paths-1.0.5-1.16.5forge.jar"
+      "path": "mods/mcw-paths-1.1.0forge-mc1.16.5.jar"
     },
     {
       "downloads": [
@@ -510,15 +511,15 @@
     },
     {
       "downloads": [
-        "https://cdn.modrinth.com/data/yM94ont6/versions/4.1.2%2B1.16.5-forge/notenoughcrashes-4.1.2%2B1.16.5-forge.jar"
+        "https://cdn.modrinth.com/data/yM94ont6/versions/4.1.4%2B1.16.5-forge/notenoughcrashes-4.1.4%2B1.16.5-forge.jar"
       ],
       "env": { "client": "required", "server": "required" },
-      "fileSize": 177981,
+      "fileSize": 178345,
       "hashes": {
-        "sha1": "29e3ebb6c6ca33c225ddeddaf0d08e7868bf229e",
-        "sha512": "1f0f9704f58c1db68df1aff9ea3eeb86dd75ba37a43ee3701525721e7b56d676c533841a5986350970ff97f52054618fe9f7775d992480d1bd5dc5dc6519943f"
+        "sha1": "29320598177149b2236bd06269fe9b754f62a7a0",
+        "sha512": "d51a2ee6a531bfe8d2b0e808b97fa555af8bab54ab139967aeeb401463b0002c80a93c3e7326cf4cfdf2ff68292b491db5f6ed7373732664a3b41aae1c6b03db"
       },
-      "path": "mods/notenoughcrashes-4.1.2+1.16.5-forge.jar"
+      "path": "mods/notenoughcrashes-4.1.4+1.16.5-forge.jar"
     },
     {
       "downloads": [
@@ -652,9 +653,5 @@
       },
       "path": "resourcepacks/ThePixelmonOST.zip"
     }
-  ],
-  "dependencies": { 
-    "forge": "36.2.42", 
-    "minecraft": "1.16.5" 
-  }
+  ]
 }
