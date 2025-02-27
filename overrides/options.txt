@@ -1,7 +1,8 @@
+version:3120
 autoJump:false
-enableVsync:false
 fov:0.5
-guiScale:4
+maxFps:144
+guiScale:3
 resourcePacks:["vanilla","mod_resources","PFM Assets","file/ThePixelmonOST.zip"]
 incompatibleResourcePacks:["file/ThePixelmonOST.zip"]
 key_iris.keybind.reload:key.keyboard.unknown
