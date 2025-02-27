@@ -619,6 +619,18 @@
     },
     {
       "downloads": [
+        "https://cdn.modrinth.com/data/9eGKb6K1/versions/AREqYuxs/voicechat-forge-1.16.5-2.5.28.jar"
+      ],
+      "env": { "client": "required", "server": "required" },
+      "fileSize": 7739285,
+      "hashes": {
+        "sha1": "c3066846d6a440b870173fb9bf5dc4ae8e542a69",
+        "sha512": "027060e554f58d69bf958c1f01dcaa24a40106af85215a943229503dc0ced7cbcad68453f44da535b7798e72fbe9462675bbc169fca347b649c722a77521d94b"
+      },
+      "path": "mods/voicechat-forge-1.16.5-2.5.28.jar"
+    },
+    {
+      "downloads": [
         "https://cdn.modrinth.com/data/AtB5mHky/versions/NzB9gYxU/watut-forge-1.16.5-1.0.14.jar"
       ],
       "env": { "client": "required", "server": "required" },
