@@ -1,5 +1,10 @@
-# DAJAAM's Pixelmon - A private Pixelmon SMP
+# DAJAAM's Pixelmon
 
+DAJAAM's Pixelmon modpack is crafted for a private SMP, focusing on a richer and more optimized gameplay experience. This collection enhances multiplayer interactions by incorporating a variety of decorative mods, including the Macaw's collection, Paladin's Furniture, Storage Drawers, and Traveler's Backpacks, among others. Quality of life and multiplayer enhancements are provided through mods like Simple Voice Chat, What Are They Up To, Roughly Enough Items, and Journeymap. Beyond an improved experience, the modpack also delivers enhanced performance by addressing common issues found in vanilla Minecraft.
+
+<details>
+<summary>🛠️ Mod List</summary>
+  
 - [3d\-Skin\-Layers](https://modrinth.com/mod/zV5r3pPn) [1\.7\.4] by tr7zw
 - [AddonsLib](https://modrinth.com/mod/cl5ec0Qm) [1\.16\.5\-2\.8] by Samlegamer
 - [Amber](https://modrinth.com/mod/FYs9YRPs) [1\.2\.3] by Snownee, Hellish Mods & Modern Modpacks
@@ -54,3 +59,4 @@
 - [What Are They Up To](https://modrinth.com/mod/AtB5mHky) [1\.16\.5\-1\.0\.14] by Corosus
 - [Zume](https://modrinth.com/mod/o6qsdrrQ) [1\.1\.4] by Nolij \(@xdMatthewbx\#1337\)
 - [spark](https://modrinth.com/mod/l6YH9Als) [1\.9\.1] by Luck
+</details>
